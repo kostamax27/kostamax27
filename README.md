@@ -4,3 +4,4 @@
 </a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostamax27&theme=dark" />
 </a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
